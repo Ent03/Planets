@@ -1,5 +1,6 @@
 # Planets
 ![planet1](https://i.imgur.com/q5vczET.png)
+![otherplanet](https://i.imgur.com/lrFgyxo.png)
 ![snow](https://i.imgur.com/C6OYync.png)
 ![high](https://i.imgur.com/h3AvvkI.png)
 ![planet2](https://i.imgur.com/jPdR42U.png)
